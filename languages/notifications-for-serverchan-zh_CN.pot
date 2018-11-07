@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Notifications For ServerChan\n"
+"POT-Creation-Date: 2018-11-06 00:59+0800\n"
+"PO-Revision-Date: 2018-11-06 00:59+0800\n"
+"Last-Translator: Bestony <xiqingongzi@gmail.com>\n"
+"Language-Team: Bestony <xiqingongzi@gmail.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: notifications-for-serverchan.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/init.php:13
+msgid "ServerChan Introduce"
+msgstr "Server 酱介绍"
+
+#: admin/init.php:19
+msgid "SCKey Settings"
+msgstr "SCKey 设置"
+
+#: admin/init.php:26
+msgid "SCKey"
+msgstr "SCKey"
+
+#: admin/init.php:33
+msgid "Event Introduce"
+msgstr "事件说明"
+
+#: admin/init.php:40
+msgid "User Event: Register"
+msgstr "用户事件：新用户注册"
+
+#. Plugin Name of the plugin/theme
+#: admin/sections.php:6 admin/sections.php:36
+msgid "Notifications For ServerChan"
+msgstr "Server 酱消息通知"
+
+#: admin/sections.php:13
+msgid ""
+"ServerChan is a tools can send message from web to wechat， you can use it "
+"to notify yourself."
+msgstr ""
+"Server酱是一个能够将消息通过 API 传送到微信的工具，你可以借助它来完成一些消"
+"息推送的任务。"
+
+#: admin/sections.php:19
+msgid ""
+"Copy the SCKEY From <a href=\"http: //sc.ftqq.com/?c=code\n"
+"\">http://sc.ftqq.com/?c=code</a> ，and paste it below."
+msgstr ""
+"从 <a href=\"http://sc.ftqq.com/?c=code\">http://sc.ftqq.com/?c=code</a> 复"
+"制 SCKey，并粘贴到下方。"
+
+#: admin/sections.php:25
+msgid "Enable The event you need."
+msgstr "开启你需要的事件的说明"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wpstore.app/archives/notifications-for-serverchan/"
+msgstr "https://wpstore.app/archives/notifications-for-serverchan/"
+
+#. Description of the plugin/theme
+msgid ""
+"A Notifications Plugin For <a href=\"http://sc.ftqq.com\"> ServerChan </a>"
+msgstr ""
+"一个 WordPress 用的 <a href=\"http://sc.ftqq.com\"> Server 酱 </a> 消息通知"
+"插件。"
+
+#. Author of the plugin/theme
+msgid "Bestony"
+msgstr "Bestony"
+
+#. Author URI of the plugin/theme
+msgid "https://wpstore.app/"
+msgstr "https: //wpstore.app/"
